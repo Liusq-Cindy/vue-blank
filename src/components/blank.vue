@@ -8,18 +8,14 @@
 
 <script>
 // 调用组件
-import xNav from './x-nav.vue'
 export default {
   name: 'sortable',
-  components: {
-    xNav
-  },
   data () {
     return {
-      
+
     }
   },
-  methods:{
+  methods: {
 
   }
 }
